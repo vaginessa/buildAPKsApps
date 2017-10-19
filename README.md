@@ -6,6 +6,4 @@ To install it in its' proper place, copy and paste the following into [Termux.](
 cd && git clone https://github.com/sdrausty/buildAPKs
 cd buildAPKs
 git submodule update --init sources/apps
-echo "Run the following command to build these APKs."
-./sources/apps/buildApps.sh
 ```
